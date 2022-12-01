@@ -49,3 +49,13 @@
 .assign-tasks-column {
     flex: 50%;
 }
+
+.assign-tasks-label {
+    padding: 20px;
+}
+
+.assign-tasks-submit-button {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
